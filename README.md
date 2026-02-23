@@ -27,5 +27,5 @@ You GBC email: Celeste.VadoGutierrez@georgebrown.ca
 - 17:30 - 20:30 - [COMM2000 Communicating Across Contexts] (https://learn.georgebrown.ca/d2l/home/430157)
 
 ##Friday
-[COMP1236 Fundamentals of Computing Logic] (https://learn.georgebrown.ca/d2l/home/455928)  10:00 - 12:00 
-[COMP1238 Intro to data management LAB] (https://learn.georgebrown.ca/d2l/home/452067) 15:00 - 16:00 
+- [COMP1236 Fundamentals of Computing Logic] (https://learn.georgebrown.ca/d2l/home/455928)  10:00 - 12:00 
+- [COMP1238 Intro to data management LAB] (https://learn.georgebrown.ca/d2l/home/452067) 15:00 - 16:00 
